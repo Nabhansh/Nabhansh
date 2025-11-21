@@ -8,8 +8,8 @@ I'm Nabhansh Rishi Gaur, a student & coding enthusiastic learning C, developing 
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
   <img src="https://img.shields.io/badge/Git-black" />
-  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
-    <img src="https://open.spotify.com/user/31icn564v7p376n3pmd24nqzq43m" />
+  <a href="https://open.spotify.com/user/31icn564v7p376n3pmd24nqzq43m">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" />
   </a>
 </p>
 
