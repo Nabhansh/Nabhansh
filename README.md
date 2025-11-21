@@ -9,12 +9,6 @@
         <stop offset="50%" stop-color="#9aedfe"/>
         <stop offset="100%" stop-color="#a3c9ff"/>
       </linearGradient>
-      <filter id="glitch">
-        <feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0
-                                                              0 1 0 0 0
-                                                              0 0 1 0 0
-                                                              0 0 0 1 0"/>
-      </filter>
     </defs>
 
     <rect width="1200" height="140" fill="#07070b"/>
@@ -46,15 +40,9 @@
   <svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
     <rect width="1200" height="90" fill="#05060a"/>
     <g font-family="monospace" font-size="12" fill="#7fffd4" opacity="0.65">
-      <text x="20">
-        <tspan>1</tspan><tspan dy="14">0</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan>
-      </text>
-      <text x="60">
-        <tspan>0</tspan><tspan dy="14">1</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan>
-      </text>
-      <text x="100">
-        <tspan>0</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan><tspan dy="14">1</tspan>
-      </text>
+      <text x="20"><tspan>1</tspan><tspan dy="14">0</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan></text>
+      <text x="60"><tspan>0</tspan><tspan dy="14">1</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan></text>
+      <text x="100"><tspan>0</tspan><tspan dy="14">1</tspan><tspan dy="14">0</tspan><tspan dy="14">1</tspan></text>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 18; 0 0" dur="3.5s" repeatCount="indefinite"/>
     </g>
   </svg>
@@ -98,12 +86,12 @@
 <!-- ======================= TERMINAL — WHOAMI (Styled ASCII box) ======================= -->
 <pre style="background:#0b0c10;padding:12px;border-radius:8px;color:#9AEDFE;font-family:'Fira Code',monospace;">
 ┌──────────────────────────────────────── WhoAmI ───────────────────────────────────────┐
-│ > whoami                                                                            │
+│ > whoami                                                                             │
 │ > Name    : Nabhansh Rishi Gaur                                                      │
 │ > Role    : Full-stack Developer | Cybersecurity Learner                             │
 │ > Skills  : C, Python, Kali Linux, HTML, CSS, JavaScript                             │
 │ > Current : 100 Days of Code | Building cool projects & learning pentesting          │
-│ │ > Motto   : Keep building. Keep breaking. Keep learning.                            │
+│ > Motto   : Keep building. Keep breaking. Keep learning.                             │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
@@ -116,15 +104,14 @@
 
 ---
 
-<!-- ======================= GIF & VISUALS ======================= -->
+<!-- ======================= GIF & VISUALS (FIXED GIF) ======================= -->
 ## 🎞 A GIF That Matches My Energy
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVvdDg1bDBpc3IyZ2M5aG1rbXVlZXdtZ3oyZmJsdm8xN2JvYjAwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2V086LN7Ok23BuxCY/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/h2V086LN7Ok23BuxCY/giphy.gif" width="420"/>
 </p>
 
 <p align="center"><em>May the God's name live on!!</em></p>
-
 
 ---
 
