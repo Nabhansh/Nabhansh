@@ -116,23 +116,15 @@
 
 ---
 
-<!-- ======================= YOUTUBE VIDEO EMBED LINK ======================= -->
-## ▶️ Demo Video — Current Mindset
-
-<p align="center">
-  [▶️ Watch on YouTube](https://www.youtube.com/watch?v=C9sWWa8QYPA)
-</p>
-
-> (YouTube embed is not supported in README, so the clickable link is used.)
-
----
-
 <!-- ======================= GIF & VISUALS ======================= -->
+## 🎞 A GIF That Matches My Energy
+
 <p align="center">
-  <img src="https://media.tenor.com/Zu7z-B0xO6YAAAAd/blue-lock-barou.gif" width="420"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVvdDg1bDBpc3IyZ2M5aG1rbXVlZXdtZ3oyZmJsdm8xN2JvYjAwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2V086LN7Ok23BuxCY/giphy.gif" width="420"/>
 </p>
 
 <p align="center"><em>May the God's name live on!!</em></p>
+
 
 ---
 
