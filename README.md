@@ -38,10 +38,10 @@
 </pre>
 
 ## ⌨️ Coding Activity
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A3C9FF&center=true&vCenter=true&width=600&lines=Breaking+Things+%26+Fixing+Them;Full-stack+Developer;Cybersecurity+Learner;Building+Cool+Projects;Always+Improving+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AEDFE&center=true&vCenter=true&width=600&lines=Building+Cool+Projects;Learning+Cybersecurity;Breaking+Things+and+Fixing+Them;Always+Improving+%F0%9F%94%A5" />
 </p>
+
 
 ---
 
