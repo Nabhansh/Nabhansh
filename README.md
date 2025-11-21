@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding and programming professional and a newbie into Cybersecurity using Kali Linux.
+I'm Nabhansh Rishi Gaur, a student & coding enthusiastic learning C, developing web pages, a Python Tools Developer, and a Newbie in CyberSecurity.
 
 ---
 
@@ -8,8 +8,8 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
   <img src="https://img.shields.io/badge/Git-black" />
-  <a href="https://open.spotify.com/user/31icn564v7p376n3pmd24nqzq43m">
-    <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" />
+  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
+    <img src="https://open.spotify.com/user/31icn564v7p376n3pmd24nqzq43m" />
   </a>
 </p>
 
@@ -17,15 +17,15 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
 
 ##  GitHub Stats & Streak
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabhansh&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhansh&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## ⌛ Coding Activity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Cybersecurity+newbie;Python+Developer;Building+Cool+Tools+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Building+Cool+Tools+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -48,8 +48,8 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
 
 ## About Me
 -  Coffee lover & night coder  
--  Love making webpages & learning how to hack more and more in deep. 
-- 🐱 Bird and Nature person
+-  Love art, 3D modeling & animation  
+- 🐱 Cat person  
 -  Doing 100 Days of Code challenge
 
 ---
