@@ -8,7 +8,7 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
   <img src="https://img.shields.io/badge/C-Programming-blue" />
   <img src="https://img.shields.io/badge/Python-yellow" />
   <img src="https://img.shields.io/badge/Git-black" />
-  <a href="https://open.spotify.com/user/31ju6epscx7dqkzcisa6bqtnqh4q">
+  <a href="https://open.spotify.com/user/31icn564v7p376n3pmd24nqzq43m">
     <img src="https://img.shields.io/badge/Spotify-Listen-green?logo=spotify" />
   </a>
 </p>
@@ -57,7 +57,6 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
 <!-- GIF at the bottom -->
 <p align="center">
   <a href="https://youtu.be/C9sWWa8QYPA" target="_blank">
-    <img src="https://th.bing.com/th/id/OIP.z3rKuS4D4qWUnv2HQfvp4wHaK0?w=198&h=290&c=7&r=0&o=7&pid=1.7&rm=3" width="500">
   </a>
 </p>
 
