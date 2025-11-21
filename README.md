@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecurity, and UI/UX design.
+I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding and programming professional and a newbie into Cybersecurity using Kali Linux.
 
 ---
 
@@ -25,13 +25,13 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ## ⌛ Coding Activity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Enthusiast;Building+Cool+Tools+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Cybersecurity+newbie;Python+Developer;Building+Cool+Tools+🚀)](https://git.io/typing-svg)
 
 ---
 
 ##  Top Languages
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh Rishi Gaur&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -48,18 +48,20 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ## About Me
 -  Coffee lover & night coder  
--  Love art, 3D modeling & animation  
-- 🐱 Cat person  
+-  Love making webpages & learning how to hack more and more in deep. 
+- 🐱 Bird and Nature person
 -  Doing 100 Days of Code challenge
 
 ---
 
 <!-- GIF at the bottom -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BtdGJ5NGZseDI2aG1mZGxuY3MxcXBycXhjNHh3b2E3dWU4NDNiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" width="500"/>
+  <video width="500" controls>
+    <source src="/mnt/data/2f7ba018-17fc-4885-8b10-a039d2148083.mp4" type="video/mp4">
+  </video>
 </p>
 
 <p align="center">
-  <em>Praise the Sun</em>
+  <em>May the God's name live on!!</em>
 </p>
 
