@@ -56,7 +56,7 @@ I'm Nabhansh Rishi Gaur, a student & coding enthusiastic learning C, developing 
 
 <!-- GIF at the bottom -->
 <p align="center">
-  <img src="https://tenor.com/niCwu2y607z.gif" width="500"/>
+  <img src="https://tenor.com/view/blue-lock-barou-shoei-king-barou-steal-lion-gif-11025380632980788259" width="500"/>
 </p>
 
 <p align="center">
