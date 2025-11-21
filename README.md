@@ -31,7 +31,7 @@ I'm Nabhansh Rishi Gaur, a student & coding enthusiastic learning C, developing 
 
 ##  Top Languages
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh Rishi Gaur&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
