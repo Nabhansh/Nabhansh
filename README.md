@@ -56,12 +56,11 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
 
 <!-- GIF at the bottom -->
 <p align="center">
-  <video width="500" controls>
-    <source src="https://youtu.be/C9sWWa8QYPA" type="video/mp4">
-  </video>
+  <a href="https://youtu.be/C9sWWa8QYPA" target="_blank">
+    <img src="https://th.bing.com/th/id/OIP.z3rKuS4D4qWUnv2HQfvp4wHaK0?w=198&h=290&c=7&r=0&o=7&pid=1.7&rm=3" width="500">
+  </a>
 </p>
 
 <p align="center">
   <em>May the God's name live on!!</em>
 </p>
-
