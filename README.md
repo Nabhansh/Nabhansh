@@ -17,8 +17,8 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ##  GitHub Stats & Streak
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallaApe&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallaApe&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabansh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabansh&theme=radical" width="48%" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I'm Shivam Sharma, a student & coding enthusiast exploring C, Python, Cybersecur
 
 ##  Top Languages
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallaApe&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
