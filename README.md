@@ -57,7 +57,7 @@ I'm Nabhansh Rishi Gaur, a student of UPES pursuing B.Tech CSE, I am a coding an
 <!-- GIF at the bottom -->
 <p align="center">
   <video width="500" controls>
-    <source src="/mnt/data/2f7ba018-17fc-4885-8b10-a039d2148083.mp4" type="video/mp4">
+    <source src="https://youtu.be/C9sWWa8QYPA" type="video/mp4">
   </video>
 </p>
 
