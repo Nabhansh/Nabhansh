@@ -1,6 +1,6 @@
 <!-- ======================= HEADER BOX ======================= -->
 <p align="center">
-  <img src="https://i.imgur.com/8v8z5wb.png" width="70%" />
+  <img src="https://i.imgur.com/fxFWzVJ.png" width="70%" />
 </p>
 
 <p align="center">
