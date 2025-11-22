@@ -73,7 +73,6 @@
 ## 🎞 A GIF That Matches My Energy
 <p align="center">
   <img src="https://media.giphy.com/media/h2V086LN7Ok23BuxCY/giphy.gif" width="420"/>
-  <img src="https://media.giphy.com/media/Cer3g6RXnlpaOzbZVX/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
