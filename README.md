@@ -25,7 +25,7 @@
 
 ## 🖥 Terminal — WhoAmI
 
-<pre style="background:#0b0c10;padding:12px;border-radius:8px;color:#9AEDFE;font-family:'Fira Code',monospace;">
+<pre>
 ┌──────────────────────────────────────── WhoAmI ───────────────────────────────────────┐
 │ > whoami                                                                             │
 │ > Name    : Nabhansh Rishi Gaur                                                     │
@@ -38,7 +38,7 @@
 
 ---
 
-## ⌨️ Coding Activity (Fixed)
+## ⌨️ Coding Activity
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9AEDFE&center=true&vCenter=true&width=600&lines=Building+Cool+Projects;Learning+Cybersecurity;Breaking+Things+and+Fixing+Them;Always+Improving+🔥" />
 </p>
@@ -48,23 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NabhanshRishiGaur&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NabhanshRishiGaur&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📘 Top Languages
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="720"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabhanshRishiGaur&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
