@@ -183,6 +183,36 @@
     letter-spacing: 3px;
     opacity: 0;
     animation: fadein 0.6s 3.2s forwards;
+    min-height: 28px;
+  }
+
+  /* TYPEWRITER */
+  .typewriter-wrap {
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+  }
+  .typewriter-text {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .typewriter-caret {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background: var(--cyan);
+    margin-left: 3px;
+    animation: blink 0.8s step-end infinite;
+    box-shadow: 0 0 6px var(--cyan);
+    vertical-align: middle;
+  }
+
+  /* CMD typewriter */
+  .cmd-type {
+    color: var(--cyan);
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
   }
 
   /* CURSOR BLINK */
@@ -458,7 +488,7 @@
       <div class="whoami-grid">
         <div class="cmd-line">
           <span class="prompt">nabhansh@kali:~$</span>
-          <span class="cmd-text">cat ./identity.conf</span>
+          <span class="cmd-type" id="cmdType"></span>
         </div>
         <div class="output-block">
           <div class="info-row">
@@ -485,7 +515,11 @@
       </div>
 
       <div class="hero-name">Nabhansh<br>Rishi Gaur</div>
-      <div class="hero-sub">> Full-Stack // Security // Builder</div>
+      <div class="hero-sub">
+        <span class="typewriter-wrap">
+          &gt;&nbsp;<span class="typewriter-text" id="heroType"></span><span class="typewriter-caret"></span>
+        </span>
+      </div>
     </div>
   </div>
 
@@ -631,7 +665,7 @@
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
           LinkedIn
         </a>
-        <a href="mailto:nabhanshg01@gmail.com" class="social-link">
+        <a href="/cdn-cgi/l/email-protection#bed0dfdcd6dfd0cdd6d98e8ffed9d3dfd7d290ddd1d3" class="social-link">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.910 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
           Email
         </a>
@@ -649,8 +683,64 @@
 
 </div>
 
-<script>
-  // Animate progress bars on load
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  // ── TYPEWRITER ENGINE ──────────────────────────────────────────
+  function typeWriter(el, text, speed, callback) {
+    let i = 0;
+    el.textContent = '';
+    function tick() {
+      if (i < text.length) {
+        el.textContent += text[i++];
+        setTimeout(tick, speed + Math.random() * speed * 0.6);
+      } else if (callback) {
+        setTimeout(callback, 500);
+      }
+    }
+    tick();
+  }
+
+  function eraseWriter(el, speed, callback) {
+    function tick() {
+      if (el.textContent.length > 0) {
+        el.textContent = el.textContent.slice(0, -1);
+        setTimeout(tick, speed * 0.5);
+      } else if (callback) {
+        setTimeout(callback, 200);
+      }
+    }
+    tick();
+  }
+
+  // CMD line types out after boot (1.2s delay)
+  const cmdEl = document.getElementById('cmdType');
+  setTimeout(() => typeWriter(cmdEl, 'cat ./identity.conf', 60), 1200);
+
+  // Hero subtitle cycles through phrases
+  const heroEl = document.getElementById('heroType');
+  const phrases = [
+    'Full-Stack Developer',
+    'Cybersecurity Learner',
+    'Builder & Breaker',
+    '100 Days of Code',
+    'Keep Learning. Always.',
+  ];
+  let phraseIndex = 0;
+
+  function cyclePhrase() {
+    typeWriter(heroEl, phrases[phraseIndex], 55, () => {
+      setTimeout(() => {
+        eraseWriter(heroEl, 40, () => {
+          phraseIndex = (phraseIndex + 1) % phrases.length;
+          cyclePhrase();
+        });
+      }, 2000);
+    });
+  }
+  // Start after hero name fades in (~3.2s)
+  setTimeout(cyclePhrase, 3400);
+
+  // ── END TYPEWRITER ──────────────────────────────────────────────
+
   setTimeout(() => {
     document.querySelectorAll('.progress-fill').forEach(bar => {
       bar.style.width = bar.dataset.width + '%';
@@ -697,11 +787,4 @@
     for (let i = 0; i < columns; i++) {
       const char = chars[Math.floor(Math.random() * chars.length)];
       ctx.fillText(char, i * fontSize, drops[i] * fontSize);
-      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
-      drops[i]++;
-    }
-  }
-  setInterval(drawMatrix, 60);
-</script>
-</body>
-</html>
+      if (drops[i]
