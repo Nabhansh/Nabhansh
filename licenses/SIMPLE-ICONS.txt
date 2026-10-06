@@ -1,0 +1,5 @@
+Simple Icons
+https://github.com/simple-icons/simple-icons
+License: CC0-1.0 for the Simple Icons project assets.
+GitHub and Instagram marks are based on Simple Icons SVG paths.
+LinkedIn uses the standard 24px LinkedIn path used by common official-brand implementations; brand source is documented in BRAND-SOURCES.txt.

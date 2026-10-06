@@ -1,120 +1,53 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabhansh%20Rishi%20Gaur&fontSize=42&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Dev%20%E2%80%A2%20Cybersecurity%20Learner%20%E2%80%A2%20ML%20Explorer&descAlignY=60&descSize=16&descColor=a0a0a0&animation=twinkling"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Keep+building.+Keep+breaking.+Keep+learning.+%F0%9F%94%A5;100+Days+of+Code+%E2%80%94+no+days+off;Building+cool+things+%26+learning+to+break+them+%F0%9F%94%93)](https://git.io/typing-svg)
+# Nabhansh Rishi Gaur
+
+<img src="./assets/hero.svg?v=1" alt="Nabhansh Rishi Gaur — animated profile hero" width="100%" />
 
 </div>
 
----
+## About / Life
 
-## 💫 About Me
+<img src="./assets/about-life.svg?v=1" alt="Capabilities and interests carousel" width="100%" />
 
-> *Self-taught developer with a hacker's mindset — I build things to understand them, then break them to understand them better.*
+## Stack
 
-| | |
+<img src="./assets/stack.svg?v=1" alt="Technology stack on orbital paths" width="100%" />
+
+## Identity dashboard
+
+<img src="./assets/id-dashboard.svg?v=1" alt="Animated identity dashboard" width="100%" />
+
+## Connect
+
+<img src="./assets/connect.svg?v=1" alt="Pointing portrait and connection cards" width="100%" />
+
+### Direct links
+
+| Platform | Link |
 |---|---|
-| 🔭 **Working on** | Full-stack web apps & security tooling |
-| 🌱 **Learning** | Penetration testing & ethical hacking |
-| 💡 **Skills** | C · Python · Kali Linux · HTML · CSS · JavaScript |
-| 🏃 **Challenge** | 100 Days of Code — building cool projects daily |
-| 💬 **Ask me about** | Python · C · Web Dev · Kali Linux |
-| ⚡ **Motto** | *Keep building. Keep breaking. Keep learning.* |
+| GitHub | [Nabhansh](https://github.com/Nabhansh) |
+| LinkedIn | [nabhansh-rishi-gaur](https://www.linkedin.com/in/nabhansh-rishi-gaur) |
+| Instagram | [Socrates09999](https://www.instagram.com/Socrates09999/) |
+| Portfolio | [introduct.netlify.app](https://introduct.netlify.app/) |
+| Email | [nabhanshg01@gmail.com](mailto:nabhanshg01@gmail.com) |
 
----
+## Selected public repositories
 
-## 🌐 Socials
+Verified 2026-10-06.
 
-<div align="center">
+| Project | Repository |
+|---|---|
+| teddy | [github.com/Nabhansh/teddy](https://github.com/Nabhansh/teddy) |
+| kiss | [github.com/Nabhansh/kiss](https://github.com/Nabhansh/kiss) |
+| Live-Wallpaper | [github.com/Nabhansh/Live-Wallpaper](https://github.com/Nabhansh/Live-Wallpaper) |
+| anniversary | [github.com/Nabhansh/anniversary](https://github.com/Nabhansh/anniversary) |
+| mothers-day-special | [github.com/Nabhansh/mothers-day-special](https://github.com/Nabhansh/mothers-day-special) |
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nabhansh01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabhansh-rishi-gaur-ba8902376)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabhanshg01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabhansh)
+## Asset / font licenses
 
-</div>
+- `assets/id.png` and `assets/right_pointing.png` are the supplied portrait assets and are embedded byte-for-byte into the SVGs; no redraw or external image request is used.
+- Inter Display: SIL Open Font License 1.1 — see [`licenses/INTER-OFL-1.1.txt`](./licenses/INTER-OFL-1.1.txt).
+- Go Mono: Bigelow & Holmes / Google permissive font license — see [`licenses/GO-MONO-BSD-LIKE.txt`](./licenses/GO-MONO-BSD-LIKE.txt).
+- Brand icon source notes: [`licenses/SIMPLE-ICONS.txt`](./licenses/SIMPLE-ICONS.txt) and [`licenses/BRAND-SOURCES.txt`](./licenses/BRAND-SOURCES.txt).
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**`Languages`**
-
-[![Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=dark&perline=6)](https://skillicons.dev)
-
-**`Security & OS`**
-
-[![Skills](https://skillicons.dev/icons?i=linux,bash,kali,git,github,vscode&theme=dark&perline=6)](https://skillicons.dev)
-
-**`AI · ML · Data`**
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,mysql&theme=dark&perline=6)](https://skillicons.dev)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Nabhansh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nabhansh&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhansh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabhansh&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f320&hide_border=true&custom_title=Nabhansh%27s%20Contribution%20Graph&title_color=70a5fd&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Nabhansh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Nabhansh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Nabhansh&icon=0&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
